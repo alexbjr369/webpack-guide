@@ -1,3 +1,3 @@
 # Webpack Guide
 
-A compilation of Webpack configurations.
+A compilation of **Webpack** configurations.
