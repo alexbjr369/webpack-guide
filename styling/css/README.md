@@ -1,3 +1,3 @@
 # Webpack Guide
 
-**Webpack** configuration for **CSS**.
+Webpack configuration for CSS.
